@@ -1,4 +1,4 @@
-# vue-manage-system
+# garbage-management
 
 <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
@@ -47,19 +47,12 @@
 
 ## 功能
 
--   [x] Element Plus
--   [x] 登录/注销
--   [x] Dashboard
--   [x] 表格
--   [x] Tab 选项卡
--   [x] 表单
--   [x] 图表 :bar_chart:
--   [x] 富文本编辑器
--   [x] 图片拖拽/裁剪上传
--   [x] 权限测试
--   [x] 404 / 403
--   [x] 三级菜单
--   [x] 自定义图标
--   [x] 国际化
+-   [x] 用户登入
+-   [x] 数据统计
+-   [x] 在线游戏
+-   [x] 在线答题
+-   [x] 在线识别
+-   [x] 寻找最近垃圾桶
+
 
 
